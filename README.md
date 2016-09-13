@@ -1,3 +1,13 @@
+### This is a forked repository
+
+The following text is the original from https://github.com/rdpeng/ProgrammingAssignment2
+I worked on the assignment in cachematrix.R. Thanks to my peers for grading my work!
+
+Best
+Nils
+
+---
+
 ### Introduction
 
 This second programming assignment will require you to write an R
